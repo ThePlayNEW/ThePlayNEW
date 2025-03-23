@@ -37,6 +37,7 @@ Desenvolvedor Web Full Stack apaixonado por criar soluções tecnológicas efici
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
 #### DevOps & Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -44,6 +45,11 @@ Desenvolvedor Web Full Stack apaixonado por criar soluções tecnológicas efici
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/-API%20Gateway-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS CloudFront](https://img.shields.io/badge/-CloudFront-4285F4?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS Route 53](https://img.shields.io/badge/-Route%2053-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 
